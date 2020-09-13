@@ -1,0 +1,16 @@
+.image{
+	float:left;
+	width:25%;
+	border:20px solid brown;
+	
+}
+h1{
+	text-align:center;
+	border: 6px solid goldenrod;
+	border-radius: 22px;
+	margin:8%;
+}
+.style1{
+    float:right;	
+	
+}
